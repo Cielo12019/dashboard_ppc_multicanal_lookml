@@ -3,6 +3,8 @@
 ![Dashboard PPC Multicanal - Resumen](images/01_resumen.png)
 ![Dashboard PPC Multicanal - Resumen](images/04_agente.png)
 
+ **[Ver Dashboard PPC Multicanal](https://datastudio.google.com/reporting/c214dc75-b778-4042-b98c-11d5a1d80e9a)**
+
 ## Contenido
 
 - `models/ppc_multicanal.model.lkml` — modelo principal.
