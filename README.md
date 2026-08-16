@@ -1,13 +1,5 @@
 # Dashboard PPC Multicanal — LookML package
 
-Este paquete reconstruye como proyecto LookML la estructura funcional visible en las
-capturas proporcionadas del dashboard "Dashboard PPC Multicanal" de Looker Studio.
-
-## Importante
-Esto NO es una exportación nativa de Looker Studio. Looker Studio no entrega desde
-el enlace público un archivo LookML/LKML editable. Por eso este ZIP contiene una
-reconstrucción inicial en LookML basada en las capturas.
-
 ## Contenido
 
 - `models/ppc_multicanal.model.lkml` — modelo principal.
@@ -51,8 +43,4 @@ Fuentes/canales visibles:
 - Quora Ads
 - Bing Ads
 
-## Siguiente paso para dejarlo productivo
 
-Reemplazar la fuente SQL de ejemplo por la tabla/vista real y validar los nombres
-y tipos de columnas. Las fórmulas de CTR, CPM y CPC deben contrastarse con la
-lógica original del dashboard.
