@@ -1,5 +1,8 @@
 # Dashboard PPC Multicanal — LookML package
 
+![Dashboard PPC Multicanal - Resumen](images/01_resumen.png)
+![Dashboard PPC Multicanal - Resumen](images/04_agente.png)
+
 ## Contenido
 
 - `models/ppc_multicanal.model.lkml` — modelo principal.
